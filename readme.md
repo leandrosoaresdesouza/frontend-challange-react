@@ -31,6 +31,8 @@ O objetivo é construir uma **aplicação web front-end** que mostre os **Result
 
 - React com TypeScript
 - Testes com React Testing Library e/ou Cypress
+- Commits semánticos utilizando esse padrão https://github.com/iuricode/padroes-de-commits
+- Componentização
 
 <br>
 
